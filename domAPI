@@ -1,4 +1,0 @@
-_Getting meta content_
-
-const sku = listItem.querySelector('meta[itemprop="sku"]')
-      return sku ? sku.getAttribute('content') : undefined
